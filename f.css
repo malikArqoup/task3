@@ -1,0 +1,94 @@
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}.clr{
+    clear: both;
+}
+.continar{
+    width: 80%;
+    margin: auto;
+}
+
+.navbar{
+    
+    background-color: black;
+}
+.list{
+    margin-top: 10px;
+    
+    float: right;
+}
+.list ul{
+    list-style-type: none;
+}
+.list a{
+    color: white;
+    text-decoration: none;
+    margin-right: 15px;
+   text-transform:uppercase;
+    
+}
+.list li{
+    float: left;
+  
+    
+}
+
+.logo{
+    margin-top: 10px;
+    float: left;
+}
+.logo img{
+    
+    width: 50%;
+}
+/********************************************************/
+.service{
+    margin-top: 50px;
+    background-color: white;
+    text-align: center;
+}
+.service h2{
+    margin-bottom: 30px;
+}
+.icons i{
+    margin-top: 50px;
+    font-size: 100px;
+}
+.icons{
+    color: gold;
+    float: left;
+    width: 33.33%;
+    
+}
+.icons p{
+    color: gray;
+    margin-top: 30px;
+    margin-right: 10px;
+}
+.icons h3{
+    margin-top: 30px;
+}
+
+/********************************************************/
+
+.portfolio{
+    background-color: white;
+    text-align: center;
+}
+.portfolio h2{
+    margin-top: 15px;
+
+}
+.portfolio p{
+    color: gray;
+   
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+.portfolio-item{
+    float:left;
+    width: 33%;
+}
+
